@@ -1,0 +1,41 @@
+_repo: Aunt-Jane-s-Nieces-on-the-Ranch_35859
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35859-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Akers, Floyd
+    - Baum, Lyman Frank
+    - Fitzgerald, Hugh
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    - Cooke, John Estes
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2011-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Infants -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'California -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: Aunt Jane's Nieces on the Ranch
+url: http://www.gutenberg.org/ebooks/35859
