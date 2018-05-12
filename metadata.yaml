@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35859#Aunt-Jane-s-Nieces-on-the-Ranch
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
 identifiers:
